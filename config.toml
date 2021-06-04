@@ -1,0 +1,4 @@
+baseURL = "https://mayopools.com/"
+languageCode = "en-us"
+title = "Mayo pools"
+theme = "ananke"
